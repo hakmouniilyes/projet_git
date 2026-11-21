@@ -8,4 +8,5 @@ def afficher():
         print(i, "-", t)
 
 ajouter("Apprendre Git")
+ajouter("Faire la demo")
 afficher()

@@ -10,6 +10,6 @@ def afficher():
     for i, t in enumerate(taches, 1):
         print(i, "-", t)
 
-ajouter("Apprendre Git")
+ajouter("Apprendre Github")
 ajouter("Faire la demo")
 afficher()
